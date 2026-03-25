@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+.github
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.tox/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Previous local builds
+build/
+dist/
+yt-dlp
+yt-dlp.exe
+yt-dlp.tar.gz
